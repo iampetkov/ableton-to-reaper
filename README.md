@@ -45,6 +45,6 @@ without losing the session.
 
 ## Known limitations
 
-- Utility plugin parameter transfer is partial (inserts at default state)
-- ReaEQ filter type display has a known cosmetic issue in Reaper's UI
-- Taper curve (Sine vs Hybrid) is not currently encoded
+- Utility plugin parameter transfer is partial (inserts at default state).
+- ReaEQ filter Q not fully matching EQEight Q values after a certain steeper point.
+- Only a limited set of plugins is currently being parsed.
